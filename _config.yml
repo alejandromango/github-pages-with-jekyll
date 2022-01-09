@@ -1,12 +1,11 @@
 title: Best Blog
 author: Me
 email: noyb@fu.com
+theme: minima
+
 description: > # this means to ignore newlines until "baseurl:"
   This is just a test
-  
-baseurl: myfaveblog
-  
-theme: minima
+    
 
 # social links
 github_username:  alejandromango # DO NOT include the @ character, or else the build will fail!
