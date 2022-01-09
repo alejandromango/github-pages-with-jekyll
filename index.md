@@ -1,5 +1,4 @@
 ---
-title: "Welcome to my blog"
+title: "Alex's First Blog"
 ---
-
-I'm glad you are here. I plan to talk about ...
+Hoping to learn how to use this bloggy function on github!
